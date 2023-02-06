@@ -1,6 +1,6 @@
-# My first repo
+# Hello all
 
-Hi, my name is Ella.
+### Hi, my name is Ella.
 
 
  - :cat: I'm currently working on somthing cool!
