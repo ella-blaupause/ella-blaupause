@@ -3,7 +3,7 @@
 Hi, my name is Ella.
 
 
- - I'm currently working on somthing cool!
+ - :cat: I'm currently working on somthing cool!
  - I'm currently learning JavaScript.
  - blabla
  
