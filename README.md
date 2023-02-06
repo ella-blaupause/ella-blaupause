@@ -7,5 +7,5 @@ Hi, my name is Ella.
  - I'm currently learning JavaScript.
  - :loudspeaker: Fun fact: I can whistle like an owl!
  
- ![das ist ein bild](https://haustier-portal.de/wp-content/uploads/Bild-von-einem-suessen-Katzenbaby-1.jpg)
+ ![das ist ein bild](https://images6.fanpop.com/image/photos/40600000/Owl-owls-40623465-1280-720.jpg)
 
