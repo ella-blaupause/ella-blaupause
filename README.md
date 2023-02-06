@@ -1,6 +1,6 @@
-# Meine erste repo
+# My first repo
 
-Hi, mein Name ist Ella.
+Hi, my name is Ella.
 
 Das sind meine Hobbies:
 
