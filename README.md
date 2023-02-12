@@ -1,8 +1,6 @@
 # Hello all
 
-### Hi, my name is Ella.
-
-_Unterstrichen_
+## Hi, my name is Ella.
 
 
  - :cat: I'm currently working on somthing cool!
@@ -11,3 +9,10 @@ _Unterstrichen_
  
  ![das ist ein bild](https://images6.fanpop.com/image/photos/40600000/Owl-owls-40623465-1280-720.jpg)
 
+#### I want to learn
+[] HTML
+[] CSS
+[] JavaScript
+[] React
+[] Next.js
+[] Node.js
