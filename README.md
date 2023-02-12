@@ -10,9 +10,9 @@
  ![das ist ein bild](https://images6.fanpop.com/image/photos/40600000/Owl-owls-40623465-1280-720.jpg)
 
 #### I want to learn
--[ ] HTML
--[ ] CSS
--[ ] JavaScript
--[ ] React
--[ ] Next.js
--[ ] Node.js
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] React
+- [ ] Next.js
+- [ ] Node.js
