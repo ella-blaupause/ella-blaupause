@@ -12,7 +12,7 @@
 #### I want to learn
 - [x] HTML
 - [x] CSS
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] React
 - [ ] Next.js
 - [ ] Node.js
