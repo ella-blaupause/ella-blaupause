@@ -13,6 +13,6 @@
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-- [ ] React
+- [x] React
 - [ ] Next.js
 - [ ] Node.js
