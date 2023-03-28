@@ -15,5 +15,5 @@
 - [x] JavaScript
 - [x] React
 - [x] Next.js
-- [ ] Node.js
-- [ ] MongoDb
+- [x] Node.js
+- [x] MongoDb
