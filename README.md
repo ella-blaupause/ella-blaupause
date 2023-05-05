@@ -18,6 +18,6 @@
 - [x] MongoDb
 
 #### This is learned after bootcamp
-- Svelte
-- SvelteKit
-- Python
+- [ ] Svelte
+- [ ] SvelteKit
+- [ ] Python
