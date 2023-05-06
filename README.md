@@ -21,3 +21,4 @@
 - [ ] Svelte
 - [ ] SvelteKit
 - [ ] Python
+- [ ] Java
